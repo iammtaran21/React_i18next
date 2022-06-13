@@ -1,0 +1,74 @@
+{
+  "menu1" : {
+    "id": 1,
+    "title": "Deutsche Pfannkuchen",
+    "category": "Frühstück",
+    "price": 15.98,
+    "img": "./images/item-1.jpeg",
+    "desc": "Ich bin deutsche Sprache, Wolfsbitter Live-Edge blaue Flasche, Hängematten-Freegan-Kupferbecher, was auch immer kaltgepresst "
+  },
+  "menu2" : {
+    "id": 2,
+    "title": "Abendessen doppelt",
+    "category": "Mittagessen",
+    "price": 13.99,
+    "img": "./images/item-2.jpeg",
+    "desc": "Vaporware iPhone Mumblecore Selvage Raw Denim Slow-Carb Leggings Gochujang Helvetica Man Braid Jianbing. Marfa Donnerkatzen"
+  },
+  "menu3" : {
+    "id": 3,
+    "title": "Godzilla-Milchshake",
+    "category": "schüttelt",
+    "price": 6.99,
+    "img": "./images/item-3.jpeg",
+    "desc": "Ombucha Chillwave Fanny Pack 3 Wolf Moon Street Art Photo Booth, bevor sie ausverkauft sind, organisch viral."
+  },
+  "menu4" : {
+    "id": 4,
+    "title": "Land Freude",
+    "category": "Frühstück",
+    "price": 20.99,
+    "img": "./images/item-4.jpeg",
+    "desc": "Shabby Chic Keffiyeh Neutra Snackwave Schweinebauch Shoreditch. Prism austin mlkshk truffaut,"
+  },
+  "menu5" : {
+    "id": 5,
+    "title": "Ei-Angriff",
+    "category": "Mittagessen",
+    "price": 22.99,
+    "img": "./images/item-5.jpeg",
+    "desc": "franzen vegan pabst fahrradrechte kickstarter pinterest meditation farm-to-table 90er pop-up "
+  },
+  "menu6" : {
+    "id": 6,
+    "title": "Oreo-Traum",
+    "category": "schüttelt",
+    "price": 18.99,
+    "img": "./images/item-6.jpeg",
+    "desc": "Portland Chicharrones ethische Edison-Birne, Palo Santo Craft Beer Chia Heirloom iPhone jeden Tag"
+  },
+  "menu7" : {
+    "id": 7,
+    "title": "Speck überlaufen",
+    "category": "Frühstück",
+    "price": 8.99,
+    "img": "./images/item-7.jpeg",
+    "desc": "trage jianbing normcore freegan. Viraler Single-Origin-Kaffee Live-Edge, Schweinebauchwolkenbrot Island legte einen Vogel"
+  },
+  "menu8" : {
+    "id": 8,
+    "title": "amerikanischer klassiker",
+    "category": "Mittagessen",
+    "price": 12.99,
+    "img": "./images/item-8.jpeg",
+    "desc": "darauf tumblr kickstarter thundercats migas tragen jeden tag tintenfisch palo santo leggings. Foodtruck truffaut"
+  },
+  "menu9" : {
+    "id": 9,
+    "title": "Quarantäne Kumpel",
+    "category": "schüttelt",
+    "price": 16.99,
+    "img": "./images/item-9.jpeg",
+    "desc": "Skateboard Fam Synth authentische Semiotik. Live-edge lyft af, edison-birne yuccie kruzifix mikrodosierung."
+  }
+}
